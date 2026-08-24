@@ -65,6 +65,129 @@ KNOWLEDGE_BASE = {
             "keywords": ["entrance", "exam", "test", "admission", "criteria", "eligibility", "merit"]
         },
     ],
+     "College Information": [
+        {
+            "question": "What is GSSSIETW?",
+            "answer": "GSSSIETW stands for GSSS Institute of Engineering and Technology for Women. It is a women's engineering institution located in Mysuru, Karnataka.",
+            "keywords": ["GSSSIETW", "GSSS", "college", "institute", "women", "Mysuru"]
+        },
+        {
+            "question": "What does GSSSIETW stand for?",
+            "answer": "GSSSIETW stands for GSSS Institute of Engineering and Technology for Women.",
+            "keywords": ["GSSSIETW", "full form", "GSSS"]
+        },
+        {
+            "question": "Is GSSSIETW a women's college?",
+            "answer": "Yes, GSSSIETW is an engineering institution established to provide quality technical education to women.",
+            "keywords": ["women", "girls", "college", "engineering"]
+        },
+        {
+            "question": "Is GSSSIETW affiliated to VTU?",
+            "answer": "Yes, GSSSIETW is affiliated to Visvesvaraya Technological University, Belagavi.",
+            "keywords": ["VTU", "affiliated", "university"]
+        },
+        {
+            "question": "Is GSSSIETW approved by AICTE?",
+            "answer": "Yes, the institution is approved by AICTE.",
+            "keywords": ["AICTE", "approved", "approval"]
+        },
+        {
+            "question": "Is GSSSIETW accredited by NAAC?",
+            "answer": "Yes, GSSSIETW is accredited by NAAC.",
+            "keywords": ["NAAC", "accredited", "accreditation"]
+        },
+        {
+            "question": "When was GSSSIETW established?",
+            "answer": "GSSSIETW was established in 2003.",
+            "keywords": ["established", "founded", "2003"]
+        },
+        {
+            "question": "What type of institution is GSSSIETW?",
+            "answer": "GSSSIETW is an engineering and technology institution for women offering undergraduate, postgraduate, management and research programs.",
+            "keywords": ["institution", "engineering", "technology", "women"]
+        },
+    ],
+    "Location": [
+        {
+            "question": "Where is GSSSIETW located?",
+            "answer": "GSSSIETW is located at KRS Road, Metagalli, Mysuru, Karnataka 570016.",
+            "keywords": ["location", "address", "Mysuru", "KRS Road", "Metagalli"]
+        },
+        {
+            "question": "What is the address of GSSSIETW?",
+            "answer": "The address is GSSS Institute of Engineering and Technology for Women, KRS Road, Metagalli, Mysuru, Karnataka 570016.",
+            "keywords": ["address", "location", "KRS Road", "Metagalli"]
+        },
+        {
+            "question": "Where is the GSSS engineering campus?",
+            "answer": "The GSSS engineering campus is located on KRS Road, Metagalli, Mysuru.",
+            "keywords": ["engineering campus", "KRS Road", "Metagalli", "Mysuru"]
+        },
+        {
+            "question": "Is GSSSIETW in Mysuru?",
+            "answer": "Yes, GSSSIETW is located in Mysuru, Karnataka.",
+            "keywords": ["Mysuru", "Mysore", "location"]
+        },
+        {
+            "question": "Is GSSSIETW located on KRS Road?",
+            "answer": "Yes, the GSSSIETW engineering campus is located on KRS Road in Metagalli, Mysuru.",
+            "keywords": ["KRS Road", "location", "campus"]
+        },
+        {
+            "question": "Which area of Mysuru is GSSSIETW located in?",
+            "answer": "GSSSIETW is located in the Metagalli area of Mysuru.",
+            "keywords": ["Metagalli", "Mysuru", "area"]
+        },
+        {
+            "question": "What is the PIN code of GSSSIETW?",
+            "answer": "The PIN code of GSSSIETW is 570016.",
+            "keywords": ["PIN", "pincode", "570016"]
+        },
+        {
+            "question": "How can I find GSSSIETW?",
+            "answer": "You can find GSSSIETW at KRS Road, Metagalli, Mysuru, Karnataka 570016.",
+            "keywords": ["find", "location", "address", "KRS Road"]
+        }
+    ],
+
+
+    "Contact": [
+        {
+            "question": "How can I contact GSSSIETW?",
+            "answer": "You can contact GSSSIETW through the official college contact details or by visiting the campus at KRS Road, Metagalli, Mysuru.",
+            "keywords": ["contact", "phone", "email", "college"]
+        },
+        {
+            "question": "What is the phone number of GSSSIETW?",
+            "answer": "The college contact numbers listed by GSSSIETW are 0821-4257304, 2581304 and 2977306.",
+            "keywords": ["phone", "telephone", "number", "contact"]
+        },
+        {
+            "question": "What is the email address of GSSSIETW?",
+            "answer": "The college can be contacted through the official email addresses provided on its website.",
+            "keywords": ["email", "mail", "contact"]
+        },
+        {
+            "question": "How can I contact the admission department?",
+            "answer": "For admission-related questions, students can contact the GSSSIETW admission office through the official college contact channels.",
+            "keywords": ["admission", "contact", "office", "phone"]
+        },
+        {
+            "question": "How can I contact the placement department?",
+            "answer": "The Training and Placement Department can be contacted through placements@gsss.edu.in or the placement contact numbers provided by the college.",
+            "keywords": ["placement", "contact", "email", "placements"]
+        },
+        {
+            "question": "Where can I find the college contact details?",
+            "answer": "The official GSSSIETW website provides the college's contact information.",
+            "keywords": ["contact details", "website", "phone", "email"]
+        },
+        {
+            "question": "Can I visit the college for enquiries?",
+            "answer": "Yes, students and parents can visit the college campus at KRS Road, Metagalli, Mysuru for enquiries.",
+            "keywords": ["visit", "enquiry", "campus", "address"]
+        },
+    ],
     "Fees & Scholarships": [
          {
             "question": "Are scholarships available?",
@@ -117,6 +240,26 @@ KNOWLEDGE_BASE = {
                       "the Accounts Office immediately if you need an extension.",
             "keywords": ["late", "fee", "deadline", "miss", "penalty", "due", "overdue", "suspend"]
         },
+        {
+            "question": "Is there a merit scholarship?",
+            "answer": "Yes, GSSSIETW has merit scholarship schemes for eligible students based on the applicable criteria.",
+            "keywords": ["merit", "scholarship", "marks"]
+        },
+        {
+            "question": "Are government scholarships available?",
+            "answer": "Eligible students can apply for applicable government scholarship schemes through the college.",
+            "keywords": ["government", "scholarship", "financial"]
+        },
+        {
+            "question": "Can economically weaker students receive scholarship support?",
+            "answer": "Eligible students from economically weaker backgrounds may receive support through applicable scholarship schemes.",
+            "keywords": ["economically weaker", "financial", "scholarship"]
+        },
+        {
+            "question": "What is the Gita Chaitanya Scholarship?",
+            "answer": "The Gita Chaitanya Scholarship is a scholarship initiative associated with GSSSIETW for eligible students.",
+            "keywords": ["Gita Chaitanya", "scholarship", "merit"]
+        },
        
     ],
     "Examinations": [
@@ -164,7 +307,7 @@ KNOWLEDGE_BASE = {
             "question": "How can I know my exam timetable?",
             "answer": "Students should check official college and VTU notifications for exam timetables.",
             "keywords": ["timetable", "exam", "schedule"]
-        }
+        },
     ],
     "Library": [
          {
@@ -312,6 +455,61 @@ KNOWLEDGE_BASE = {
             "question": "Does the college provide placements?",
             "answer": "Yes, GSSSIETW has a dedicated Training and Placement Department.",
             "keywords": ["placement", "job", "career"]
+        },
+        {
+            "question": "Does GSSSIETW provide placement opportunities?",
+            "answer": "Yes, GSSSIETW has a full-fledged Training and Placement Department that manages placement and recruitment activities.",
+            "keywords": ["placement", "job", "recruitment"]
+        },
+        {
+            "question": "What does the placement department do?",
+            "answer": "The Placement Department counsels students, provides career guidance, conducts pre-placement training and coordinates recruitment activities with companies.",
+            "keywords": ["placement", "career", "training", "recruitment"]
+        },
+        {
+            "question": "Does GSSSIETW provide placement training?",
+            "answer": "Yes, the college provides pre-placement training to help students develop skills needed by industry.",
+            "keywords": ["placement training", "pre-placement", "skills"]
+        },
+        {
+            "question": "What type of placement training is provided?",
+            "answer": "Placement preparation includes activities such as aptitude training, technical preparation, interview preparation and other employability skill development.",
+            "keywords": ["aptitude", "technical", "interview", "training"]
+        },
+        {
+            "question": "Does the college conduct mock interviews?",
+            "answer": "Yes, interview panels and facilities are available for conducting placement and recruitment activities, including interview preparation.",
+            "keywords": ["mock interview", "interview", "placement"]
+        },
+        {
+            "question": "Does GSSSIETW organize campus recruitment?",
+            "answer": "Yes, the Placement Department coordinates campus recruitment activities with companies and recruiters.",
+            "keywords": ["campus recruitment", "companies", "placement"]
+        },
+        {
+            "question": "Does GSSSIETW help students with internships?",
+            "answer": "The Placement Department supports industry exposure and career development, and students receive opportunities connected with industry and recruitment activities.",
+            "keywords": ["internship", "industry", "career"]
+        },
+        {
+            "question": "Does GSSSIETW have industry collaborations?",
+            "answer": "Yes, the Placement Department works on Industry-Institute partnerships and MoUs with corporate organizations.",
+            "keywords": ["industry", "MoU", "collaboration"]
+        },
+        {
+            "question": "Where is the placement department located?",
+            "answer": "The Placement Department is located at GSSS Institute of Engineering and Technology for Women, KRS Road, Mysuru 570016.",
+            "keywords": ["placement department", "location", "KRS Road"]
+        },
+        {
+            "question": "How can I contact the placement department?",
+            "answer": "The Training and Placement Department can be contacted through placements@gsss.edu.in. The official placement page also lists phone numbers and the Head of Training and Placement.",
+            "keywords": ["placement contact", "email", "placements@gsss.edu.in"]
+        },
+        {
+            "question": "What facilities are available for campus placements?",
+            "answer": "The Placement Department has facilities including a pre-placement talk hall, written test hall, group discussion rooms, online test labs and interview panels.",
+            "keywords": ["placement facilities", "GD", "online test", "interview"]
         },
         {
             "question": "Is placement training provided?",
