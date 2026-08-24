@@ -111,7 +111,7 @@ KNOWLEDGE_BASE = {
         {
             "question": "Where is GSSSIETW located?",
             "answer": "GSSSIETW is located at KRS Road, Metagalli, Mysuru, Karnataka 570016.",
-            "keywords": ["location", "address", "Mysuru", "KRS Road", "Metagalli"]
+            "keywords": ["location", "address", "Mysuru", "KRS Road", "Metagalli","location"]
         },
         {
             "question": "What is the address of GSSSIETW?",
@@ -131,12 +131,12 @@ KNOWLEDGE_BASE = {
         {
             "question": "Is GSSSIETW located on KRS Road?",
             "answer": "Yes, the GSSSIETW engineering campus is located on KRS Road in Metagalli, Mysuru.",
-            "keywords": ["KRS Road", "location", "campus"]
+            "keywords": ["KRS Road", "location", "campus","located"]
         },
         {
             "question": "Which area of Mysuru is GSSSIETW located in?",
             "answer": "GSSSIETW is located in the Metagalli area of Mysuru.",
-            "keywords": ["Metagalli", "Mysuru", "area"]
+            "keywords": ["Metagalli", "Mysuru", "area","located","location"]
         },
         {
             "question": "What is the PIN code of GSSSIETW?",
