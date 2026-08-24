@@ -74,7 +74,7 @@ KNOWLEDGE_BASE = {
         {
             "question": "What does GSSSIETW stand for?",
             "answer": "GSSSIETW stands for GSSS Institute of Engineering and Technology for Women.",
-            "keywords": ["GSSSIETW", "full form", "GSSS"]
+            "keywords": ["GSSSIETW", "full form", "GSSS","stand","fullform"]
         },
         {
             "question": "Is GSSSIETW a women's college?",
