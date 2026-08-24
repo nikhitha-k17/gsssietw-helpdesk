@@ -245,15 +245,15 @@ def log_search(query, category, matched, source="Chat"):
     db.insert_search_log(query, category, matched, source, student_email=st.session_state.student_email)
 
 DEPARTMENTS = [
-    {"dept": "Admissions Office", "contact": "Mr. R. Kulkarni", "email": "admissions@gsss.edu.in",
+    {"dept": "Admissions Office", "contact": "Admission Officer", "email": "admissions@gsss.edu.in",
      "phone": "+91 7259256789", "location": "Reception hall"},
-    {"dept": "Accounts / Fees Office", "contact": "Ms. S. Iyer", "email": "accounts@gsss.edu.in",
+    {"dept": "Accounts / Fees Office", "contact": "Accountant Officer", "email": "accounts@gsss.edu.in",
      "phone": "0821 2472452", "location": "A Block"},
     {"dept": "Examination Cell", "contact": "Lavanya S", "email": "lavanyas@gsss.eduin",
      "phone": "0821-4257304", "location": "  A Block "},
     {"dept": "Central Library", "contact": "Banadeshwar Hiremath", "email": "library@gsss.edu",
      "phone": "+91 80 4111 2220", "location": "Library Building, Ground Floor"},
-    {"dept": "Hostel Warden Office", "contact": "Mr. K. Reddy", "email": "hostel@gsss.edu.in",
+    {"dept": "Hostel Warden Office", "contact": "Hostel Warden", "email": "hostel@gsss.edu.in",
      "phone": "0821 2581304", "location": "Hostel Block C"},
     {"dept": "Placement Cell", "contact": "Mahadeva Prasad S", "email": "placements@gsss.edu.in",
      "phone": "+91 9482086578", "location": "Academic Block B, Room 2"},
