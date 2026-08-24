@@ -208,9 +208,9 @@ agent: HelpDeskAgent = st.session_state.agent
 # Students authenticate separately via real (database-backed) signup/login —
 # see auth.py — and have no way to reach these staff logins.
 ADMIN_CREDENTIALS = {
-    "admin@gsss.edu.in": "Admin@123",
-    "principal@gsss.edu.in": "Principal@123",
-    "helpdesk.head@gsss.edu.in": "HelpDesk@123",
+    "admin@gsssietw.edu.in": "Admingsssietw@123",
+    "principal@gsssietw.edu.in": "Principalgsssietw@123",
+    "helpdesk.head@gsssietw.edu.in": "HelpDeskgsssietw@123",
 }
 
 # Agent accounts have narrower permissions than Admin (see 🛎️ Agent Dashboard):
@@ -218,8 +218,8 @@ ADMIN_CREDENTIALS = {
 # see a 30-day summary, but cannot see raw student search-query text, FAQ
 # search analytics, or manage anything Admin-only.
 AGENT_CREDENTIALS = {
-    "agent1@gsss.edu.in": "Agent@123",
-    "agent2@gsss.edu.in": "Agent@123",
+    "agent1@gsssietw.edu.in": "Agentgsssietw@123",
+    "agent2@gsssietw.edu.in": "Agentgsssietw@123",
 }
 
 
@@ -1053,7 +1053,7 @@ elif page == "🔐 Admin Dashboard":
                     st.rerun()
                 else:
                     st.error("Invalid email or password.")
-        st.caption("Demo credentials — admin@gsss.edu.in / Admin@123")
+       
 
     else:
         colh1, colh2 = st.columns([4, 1])
@@ -1312,7 +1312,7 @@ elif page == "🛎️ Agent Dashboard":
                     st.rerun()
                 else:
                     st.error("Invalid email or password.")
-        st.caption("Demo credentials — agent1@gsss.edu.in / Agent@123")
+        
 
     else:
         colh1, colh2 = st.columns([4, 1])
