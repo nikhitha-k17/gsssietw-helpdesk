@@ -111,7 +111,7 @@ KNOWLEDGE_BASE = {
         {
             "question": "Where is GSSSIETW located?",
             "answer": "GSSSIETW is located at KRS Road, Metagalli, Mysuru, Karnataka 570016.",
-            "keywords": ["location", "address", "Mysuru", "KRS Road", "Metagalli","located"]
+            "keywords": ["location", "address", "Mysuru", "KRS Road", "Metagalli","located","GSSSIETW"]
         },
         {
             "question": "What is the address of GSSSIETW?",
