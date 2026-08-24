@@ -69,7 +69,7 @@ KNOWLEDGE_BASE = {
         {
             "question": "What is full form of GSSSIETW?",
             "answer": "GSSSIETW stands for GSSS Institute of Engineering and Technology for Women. It is a women's engineering institution located in Mysuru, Karnataka.",
-            "keywords": ["GSSSIETW", "GSSS", "college", "institute", "women", "Mysuru","full form"]
+            "keywords": ["GSSSIETW", "GSSS", "college", "institute", "women", "Mysuru","full","form"]
         },
         {
             "question": "What does GSSSIETW stand for?",
